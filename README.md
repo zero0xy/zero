@@ -1,4 +1,2 @@
 ## Whatsapp-Spam
-    $ git clone https://github.com/zero0xy/zero
-    $ cd zero
-    $ python main.py
+    $ pkg install git && pkg install python && git clone --depth https://github.com/zero0xy/zero && cd zero && main.py
